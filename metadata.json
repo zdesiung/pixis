@@ -1,0 +1,6 @@
+{
+  "name": "PiXis Distribuidora",
+  "description": "Distribuidora de productos de higiene e institucionales: papel higiénico jumbo, toallas interfoliadas, dispensadores, papel sabanilla y más.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
